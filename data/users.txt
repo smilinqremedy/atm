@@ -1,0 +1,3 @@
+0 Alice 1234password
+1 Michel password1234
+2 Bob securepass99

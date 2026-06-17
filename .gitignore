@@ -1,0 +1,3 @@
+*.o
+atm_system
+data/*.tmp
